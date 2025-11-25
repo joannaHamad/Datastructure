@@ -7,7 +7,7 @@ import java.util.Date;
 public class Demo {
 
 	public static void main(String[] args) {
-
+System.out.println("Hello") ;
 		Scanner input = new Scanner(System.in);
 		int rating = 0;
 		OrderList orders = new OrderList();
@@ -697,3 +697,4 @@ System.out.println("This customer did not leave any reviews...") ;
 }
 
 }
+
